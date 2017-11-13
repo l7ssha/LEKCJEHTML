@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+width="140" height="95">
+<defs><style type="text/css"><![CDATA[
+circle { fill: #faa; }
+]]></style></defs>
+<circle cx="40" cy="25" r="20" />
+<circle cx="70" cy="25" r="20"
+style="fill:#bfb; stroke:green;" />
+<circle cx="100" cy="25" r="20" class="niebieski" />
+<rect x="5" y="50" width="40" height="40" class="gruby" />
+<polygon points="50,50 90,50 70,90" />
+<rect x="95" y="50" width="40" height="40"
+class="gruby kreski" />
+</svg>
