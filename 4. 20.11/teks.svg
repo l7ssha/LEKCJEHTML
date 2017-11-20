@@ -2,6 +2,6 @@
     <text style="font-size: 30px">
         <tspan x="100" y="40" style="text-anchor:middle;fill: green; stroke: yellow">Technik</tspan>
         <tspan x="100" y="70" style="text-anchor:middle; fill: none; stroke: red;">Informatyk</tspan>
-        <tspan x="100" y="100" style="text-anchor:middle; fill: blue;">2Ti2</tspan>
+        <tspan x="100" y="110" style="text-anchor:middle; fill: blue; font-size: 40px">2Ti2</tspan>
     </text>
 </svg>
