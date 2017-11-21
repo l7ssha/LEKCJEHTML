@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no" ?>
+	<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000">
+<path d="M100, 500 (v-220) h-50 (v220) h50 (v-220) (a-110, -110) 0 0 1 (220, 0) (v220) h50 (v-220) h-50 h50 (a-160 -160) 0 0 0 (-320, 0) (v220) h50 z " fill="none" stroke="black" />
+</svg>
