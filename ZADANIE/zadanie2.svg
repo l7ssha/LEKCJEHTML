@@ -1,0 +1,6 @@
+
+	<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+		<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1000" height="1000">
+<path d="M500, 500 v-180 h-10 v180 h10 v-180 a-90, -90 0 0 1 180, 0 v180 h10 v-180 h-10 h10 a-100 -100 0 0 0 -200, 0 v180 h10 z " fill="none" stroke="black" />
+</svg>
