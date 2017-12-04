@@ -1,16 +1,24 @@
-* { fill:none; stroke:magenta; }
-.gruby { stroke-width:6; }
-.kreski { stroke-dasharray:9,6; }
-circle
-{
-fill: orange;
-stroke: red;
-stroke-width: 3;
+* { 
+    fill: none; 
+    stroke: magenta;
 }
-circle.niebieski
-{
-fill:#ccf;
-fill-opacity:0.6;
-stroke: blue;
-stroke-opacity:0.4;
+
+.gruby { 
+    stroke-width: 6; 
+}
+
+.kreski { 
+    stroke-dasharray: 9,6; 
+}
+
+circle {
+    fill: orange;
+    stroke: red;
+    stroke-width: 3;
+}
+circle.niebieski {
+    fill: #ccf;
+    fill-opacity: 0.6;
+    stroke: blue;
+    stroke-opacity: 0.4;
 }
