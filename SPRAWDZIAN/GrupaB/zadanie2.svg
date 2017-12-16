@@ -1,0 +1,4 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="560" width="900">
+    <polygon points="294,3 585,214 474,556 114,556 2,214" fill="white" stroke="black" stroke-width="4"/>
+    <text x="650" y="300"> Pięciokąt </text>
+</svg>
