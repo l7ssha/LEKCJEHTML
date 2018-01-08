@@ -1,0 +1,25 @@
+body{
+    color: black;
+    background-color: white;
+}
+
+.title {
+    font-variant: small-caps;
+    word-spacing: 10px;
+}
+
+.bolded {
+    font-weight: bolder;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+hr {
+    border-top: 1px solid black;
+}
+
+.it {
+    font-style: italic;
+}
