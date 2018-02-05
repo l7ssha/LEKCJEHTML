@@ -1,0 +1,23 @@
+div.main {
+    margin: 5px auto;
+    width: 800px;
+    text-align: justify;
+}
+
+img.obbr {
+    float: right;
+    margin: 5px;
+}
+
+.obbr1 {
+    text-align: center;
+}
+
+.obbr2 {
+    float: left;
+    margin: 5px;
+}
+
+.obbr3 {
+    vertical-align: middle;
+}
