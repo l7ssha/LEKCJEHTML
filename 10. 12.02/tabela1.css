@@ -1,0 +1,29 @@
+td, th {
+    border: 1px solid red;
+    padding: 5px;
+}
+
+table {
+    border: solid greenyellow;
+    margin: 20px auto;
+}
+
+
+td:nth-child(1) {
+    text-align: right;
+}
+
+td:nth-last-child(1) {
+    text-align: center
+}
+
+#siema {
+    border: 1px solid red;
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+
+#elo {
+    border: solid blueviolet;
+    border-spacing: 10px;
+}
