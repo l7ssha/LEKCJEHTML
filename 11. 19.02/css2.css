@@ -1,0 +1,26 @@
+header {
+    background-color: lightgreen;
+}
+
+nav {
+    background-color: lightgoldenrodyellow;
+}
+
+#submenu {
+    background-color: lightblue;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
+aside {
+    width: 150px;
+    height: 100px;
+    float: right;
+    clear: right;
+    background-color: lightblue;
+}
+footer {
+    clear: both;
+    background-color: lightgreen;
+}
