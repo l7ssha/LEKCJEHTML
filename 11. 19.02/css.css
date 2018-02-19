@@ -2,4 +2,10 @@ main, header, nav, aside, section, article, footer {
     border: 1px solid;
     margin: 5px;
     padding: 5px;
+    background-color: wheat;
+}
+
+article {
+    background-color: darkblue;
+    color: white;
 }
