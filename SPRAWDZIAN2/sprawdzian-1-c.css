@@ -1,0 +1,59 @@
+
+
+.naglowek {
+    width: 29%;
+    background-color: #9f9;
+    float: left;
+    margin-right:1%;
+    margin-bottom: 1%;
+
+}
+
+.menu {
+    float: left;
+    width: 70%;
+    background-color: #99f;
+}   
+
+
+.obraz { 
+    float: left; margin: 5px; 
+}
+
+.tresc {
+    clear: both;
+    margin: 5px;
+    margin-bottom: 1%;
+}
+
+.galeria {
+     clear: both; margin: 0 auto; width: 1000px; 
+     
+    }
+
+.baner1 {
+    float: left;
+    width: 30%;
+    background-color: #9f9;
+}
+
+.baner2 {
+    float: left;
+    margin: 0px 5% 0px 5% ;
+    width: 30%;
+    background-color: #9f9;
+}
+
+.baner3 {
+    float: right;
+    width: 30%;
+    background-color: #9f9;
+    margin-bottom: 1%;
+}
+
+.stopka {
+    margin: 15px 0px 15px 0px;
+    clear: both;
+    width: 100%;
+    background-color: #9f9;
+}

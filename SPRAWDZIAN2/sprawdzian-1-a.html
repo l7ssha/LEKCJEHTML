@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sprawdzian</title>
+    <style>
+        table { border-collapse: collapse; }
+        td { padding: 5px; }
+        main { max-width: 600px; border: 2px solid black; margin: 10px; padding: 0 50px 50px 50px;  }
+        header, footer { background: lightgreen; padding: 5px;  }
+        nav { background: lightblue; padding: 5px; }
+        section { width: 150px; height: 200px; float: left; clear: left; padding: 5px; }
+        aside { width: 100px; height: 50px; float: right; clear: right; background: orange; padding: 5px; }
+        footer { clear: both; }
+    </style>
+</head>
+<body>
+    <main>
+        <header>Nagłówek</header>
+        <nav>Menu</nav>
+        <section>Treść</section>
+            <aside id="baner1">Baner 1</aside>
+            <aside id="baner2">Baner 2</aside>
+        <footer>Stopka</footer>
+    </main>
+    <table border="1">
+        <tr><td rowspan="3">11</td><td>12</td><td>13</td><td>14</td></tr>
+        <tr><td colspan="2"; rowspan="2">22</td><td>24</td></tr>
+        <tr><td>34</td></tr>
+        <tr><td colspan="3">41</td><td>44</td></tr>
+    </table>
+</body>
+</html>
