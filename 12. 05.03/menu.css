@@ -1,0 +1,30 @@
+nav#main ul, nav#main li a {
+    background-color: red;
+    padding: 0.5em 1em;
+}
+
+nav#main ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+
+nav#main li {
+    display: inline;
+}
+
+nav#main li:first-child a {
+    border-left: 1px solid #fff;
+}
+
+nav#main li a {
+    border-right: 1px solid white;
+    color: white;
+    text-decoration: none;
+    font-family: sans;
+}
+
+nav#main li a:hover {
+    background-color: white;
+    color: royalblue;
+}
