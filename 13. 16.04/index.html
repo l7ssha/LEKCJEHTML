@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tak</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <form name="ankieta" action="mailto:a@b.c?subject=Temat" method="post" enctype="text/plain">
+        <fieldset>
+            <legend>Ankieta</legend>
+            <div class="kontrolka">
+                <label for="id_nick">Nick:</label>
+                <br />
+                <input type="text" name="nick" id="id_nick" />
+            </div>
+            <div class="kontrolka">Płeć:
+                <br />
+                <input type="radio" name="plec" id="pk" value="k" />
+                <label for="pk">kobieta</label>
+                <input type="radio" name="plec" id="pm" value="m" />
+                <label for="pm">mężczyzna</label>
+            </div>
+            <hr />
+            <div class="przyciski">
+                <input type="reset" value="Resetuj" />
+                <input type="submit" value="Wyślij" />
+            </div>
+        </fieldset>
+    </form>
+</body>
+
+</html>
