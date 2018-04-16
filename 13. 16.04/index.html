@@ -15,7 +15,7 @@
             <legend>Ankieta</legend>
             <div class="kontrolka">
                 <label for="id_nick">Nick:</label>
-                <br />
+                <br/>
                 <input type="text" name="nick" id="id_nick" />
             </div>
             <div class="kontrolka">Płeć:
@@ -25,14 +25,18 @@
                 <input type="radio" name="plec" id="pm" value="m" />
                 <label for="pm">mężczyzna</label>
             </div>
-            <div class="siema">Produkt: <br />
+            <div class="siema">Produkt: <br/>
                 <select name="list">
                     <option></option>
-                    <option>Gruszka</option>
-                    <option>Jabłko</option>
-                    <option>Marchew</option>
-                    <option>Por</option>
-                    <option>Seler</option>
+                    <optgroup label="Owoce">
+                        <option>gruszka</option>
+                        <option>jabłko</option>
+                    </optgroup>
+                    <optgroup label="Warzywa">
+                        <option>marchew</option>
+                        <option>por</option>
+                        <option selected>seler</option>
+                    </optgroup>
                 </select>
             </div>
             <hr />
